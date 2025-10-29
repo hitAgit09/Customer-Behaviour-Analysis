@@ -1,4 +1,4 @@
-# Customer-Behaviour-Analysis
+# Customer-Behavior-Analysis
 This project, Customer Shopping Behavior, follows a clear analytical pipeline from raw data to actionable reporting.
 
 Phase 1: **Data Setup and Transformation** (Python/Jupyter)
